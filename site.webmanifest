@@ -1,0 +1,17 @@
+{
+  "name": "Etnotopomanistika dhe Gjeografia",
+  "short_name": "Etnotopomanistika",
+  "description": "Studim akademik mbi etnotopomanistikën, etnotoponomastikën, toponominë, toponimet shqiptare dhe Albanian toponyms.",
+  "lang": "sq-AL",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f0e8da",
+  "theme_color": "#1a1510",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='42' fill='%231a1510'/%3E%3Cpath d='M96 30c25 0 46 19 46 46 0 41-46 86-46 86S50 117 50 76c0-27 21-46 46-46z' fill='%23b8963e'/%3E%3Ccircle cx='96' cy='76' r='18' fill='%23f0e8da'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
